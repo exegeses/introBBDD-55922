@@ -1,4 +1,11 @@
-# Curso de Introducción a las Bases de datos código 55922
+# Curso de Introducción a las Bases de datos.
+
+<img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
+
+> Curso de Introducción a las Bases de datos |    
+> Lunes y Miércoles 14hs a 26hs |    
+> Código 55922 |    
+> sensei: Marcos Pinardi |
 
 ## Base de datos
 > ***Definición***  
