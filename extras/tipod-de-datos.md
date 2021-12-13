@@ -1,4 +1,4 @@
-# Preguntas y Respuestas
+# Tipos de datos
 
     numéricos
         TINYINT   de  -128 to 127  (255)
@@ -27,4 +27,3 @@
         TIME      838:59:59.999999
         DATETIME  YYYY-MM-DD HH:MM:SS
         TIMESTAMP YYYY-MM-DD HH:MM:SS
-
