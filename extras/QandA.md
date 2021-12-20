@@ -1,5 +1,5 @@
 # Preguntas y Respuestas
 
-    SELECT * FROM 
 
-    65535
+    float
+    int
