@@ -1,1 +1,1 @@
--- Relaciones en tre tablas
+-- Relaciones entre tablas
