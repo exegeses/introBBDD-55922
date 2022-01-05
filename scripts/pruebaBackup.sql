@@ -112,7 +112,7 @@ CREATE TABLE `productos` (
   `prdDescripcion` text NOT NULL,
   `prdImagen` varchar(45) NOT NULL,
   `prdActivo` tinyint(1) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Volcado de datos para la tabla `productos`
