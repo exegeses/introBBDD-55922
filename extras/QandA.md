@@ -8,4 +8,4 @@ phpMyAdmin
 
 Access denied for user 'pma'@'localhost' (using password: NO)
 http://localhost/phpMyAdmin/
-http://localhost:/phpMyAdmin/index.php?route=/
+http://localhost/phpMyAdmin/index.php?route=/
